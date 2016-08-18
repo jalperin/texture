@@ -175,7 +175,7 @@ Thanks goes to the following people, who make Texture possible:
 
 - Alex Garnett (leadership, concept)
 - Juan Pablo Alperin (leadership, concept)
-- Alex Smecher (concept, dev)
+- Alec Smecher (concept, dev)
 - Kristen Ratan (leadership)
 - Adam Hyde (leadership)
 - Jure Triglav (concept, dev)
